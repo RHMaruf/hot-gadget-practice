@@ -1,0 +1,32 @@
+.container{
+    margin-top: 50px;
+}
+
+.card{
+    border : none;
+    box-shadow: 5px 5px 20px lightgray;
+    border-radius: 10px;
+}
+
+.card img{
+    border-radius: 10px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.orange-link{
+    color: #FF9D00;
+    font-weight: bold;
+}
+
+.right-alingment{
+    position: relative;
+    float : right;
+    top: 25%;
+}
+
+.col-md-3 img{
+    border-radius: 10px;
+}
